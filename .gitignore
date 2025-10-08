@@ -1,5 +1,5 @@
 # Ignore data folder (sample videos/images)
-data/
+
 
 # Ignore outputs folder (processed video frames, logs, etc.)
 outputs/
