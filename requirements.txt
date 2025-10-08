@@ -1,0 +1,24 @@
+# Core ML Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLO (works for YOLOv8/v9/v10/v11)
+ultralytics>=8.2.0
+
+# OCR for reading license plates
+easyocr>=1.7.1
+
+# Image/Video Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Web App UI
+streamlit>=1.33.0
+
+# Utilities
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Optional but useful
+matplotlib>=3.7.1
